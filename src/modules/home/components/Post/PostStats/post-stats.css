@@ -1,0 +1,17 @@
+.post-stats-container {
+    display: flex;
+    gap: 40px;
+    align-items: center;
+    justify-content: flex-start;
+
+    & .post-stats {
+        align-items: center;
+        display: flex;
+
+    }
+
+}
+
+p {
+    margin-left: 10px
+}
